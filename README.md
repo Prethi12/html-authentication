@@ -17,6 +17,6 @@ This project contains 5 pages:
 - Clean UI using Bootstrap
 - Navigation between pages
 
-## Screenshot
-![Login](screenshot/login.png)
+## Screenshots
+![Login](screenshots/login.png)
  
