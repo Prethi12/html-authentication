@@ -18,5 +18,5 @@ This project contains 5 pages:
 - Navigation between pages
 
 ## Screenshots
-![Login](screenshots/login.png)
+![Login](login.png)
  
