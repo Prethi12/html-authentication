@@ -20,4 +20,5 @@ This project contains 5 pages:
 ## Screenshots
  ### Login Page
 ![Dashboard](screenshot/Dashboard.png.png)
+![Forget](screenshot/Forgotpassword.png.png)
  
