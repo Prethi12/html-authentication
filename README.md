@@ -19,5 +19,5 @@ This project contains 5 pages:
 
 ## Screenshots
  ### Login Page
-[Login](screenshots/login.png.)
+![Dashboard](screenshot/Dashboard.png.png)
  
