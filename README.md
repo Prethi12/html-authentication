@@ -18,7 +18,8 @@ This project contains 5 pages:
 - Navigation between pages
 
 ## Screenshots
- -login.png
+ ### Login Page
+[Login](screenshots/login.png.png)
  -register.png
  -forgetpassword.png
  -resetpassword.png
