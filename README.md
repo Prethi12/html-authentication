@@ -19,4 +19,8 @@ This project contains 5 pages:
 
 ## Screenshots
 ![Login](login.png)
+![Register](register.png)
+![ForgotPassword](Forgotpassword.png)
+![ResetPassword](Reset password.png)
+![Dashboard](Dashboard.png)
  
