@@ -19,8 +19,5 @@ This project contains 5 pages:
 
 ## Screenshots
  ### Login Page
-[Login](screenshots/login.png.png)
- -register.png
- -forgetpassword.png
- -resetpassword.png
- -dashboard.png
+[Login](screenshots/login.png.)
+ 
